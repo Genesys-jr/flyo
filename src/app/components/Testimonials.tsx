@@ -8,7 +8,7 @@ import profile3 from "../../../public/images/profile3.jpg";
 
 const Testimonials = () => {
   return (
-    <section className="text-white ">
+    <section className="text-white mx-20 ">
       <div>
         <Image
           src={bgQuotes}

@@ -7,6 +7,7 @@ import { Navbar } from "./components/Navbar";
 import Features from "./components/Features";
 import Productive from "./components/Productive";
 import Testimonials from "./components/Testimonials";
+import Footer from "./components/Footer";
 
 export default function Home() {
   return (
@@ -16,6 +17,7 @@ export default function Home() {
       <Features />
       <Productive />
       <Testimonials />
+      <Footer />
     </main>
   );
 }
